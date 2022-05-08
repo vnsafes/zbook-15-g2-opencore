@@ -1,3 +1,15 @@
-# zbook-15-g2-opencore
-Share bộ cài đặt macos monterey 12.3.1 opencore 0.7.9!
-Chia sẻ cho anh em bản Hackintosh Momterey full install, ae nào dùng chung cấu hình Zbook 15 g2 thì tải về sửa lại chút nếu như phần cứng ae có hơi khác, còn ko thì cứ bỏ vào là ăn thôi, còn ae nào dùng Dell Precison M4800 thì sửa một chút trong Config nhé, phiên bản hiện tại là 12.3.1 do tự tay mình build, ae nào thích thì tải về chơi nhé, full bộ cài đặt fix full all. https://drive.google.com/file/d/16rv4J9diZuhYydQw9Z3EtnzdF4ZR7jkS/view?usp=sharing
+# ✏️  Chú ý: 
+# 📫 Opencore Laptop HP Zbook 15 G2 - 0.8.1 Full Installer Fix All 🥰.          
+#VNSafes Chia sẻ cho anh em full bộ cài đặt và efi macOS Monterey 12.3.1 Opencore 0.8.1.
+
+• Cấu hình máy: Zbook 15 G2.                             
+• CPU: Core I7 4810 QM 4TH.                                      
+• CARD: HD Graphics 4600.                                          
+• CARD 2: Quadro K2100m 2 GB.                                                                                                                       
+• RAM: 16GG DDR3 BUS 1600.
+
+
+Đây là bộ đặt mình tự build EFI chuẩn nhất hệ mặt trời, fix full 😁 😂🤣.                                                
+Link Down: [Download Full Installer macOS Monterey 12.3.1 Laptop Zbook 15 G2 Opencore](https://drive.google.com/drive/u/2/folders/1D2aPrGwLULIiQi9aHAe_f1NG5pIVAHx4 )                       
+![Ảnh chụp Màn hình 2022-04-19 lúc 12 34 35](https://user-images.githubusercontent.com/103987160/163943326-f0feba96-c7ee-4e5e-8a48-26573a480818.png)
+ĐÃ FIX CỰC CHUẨN, MAPS USB CHUẨN, PARTH CỰC CHUẨN KO CẦN CHỈNH, OC 0.8.1 ANH EM NHÉ, TẢI VỀ LÀ CHIẾN THÔI 😁.
